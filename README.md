@@ -1,6 +1,6 @@
 # Welcome to my Portfolio Website Source Code
 
-Mohammedmeesam.me is a portfolio website showcasing my projects and background.
+Mohammedmeesam.com is a portfolio website showcasing my projects and background.
 
 The website is static and is hosted on github pages and the domain name is .me because I got it for free as a student. I will be changing it once it expires.
 
